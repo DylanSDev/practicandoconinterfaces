@@ -50,8 +50,8 @@ namespace PracticandoConInterfaces.Domain
         public bool ConsultarEstadoRed()
         {
             int horaActual = DateTime.Now.Hour;
-            //Solo se podrán enviar SMS entre las 8 y las 20 horas
-            return EstadoRed = horaActual >= 8 && horaActual <= 20;
+            //Solo se podrán enviar SMS entre las 8 y las 00 horas
+            return EstadoRed = horaActual >= 8 && horaActual <= 00;
         }
     }
 }

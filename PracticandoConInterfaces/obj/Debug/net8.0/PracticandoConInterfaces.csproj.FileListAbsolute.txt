@@ -12,3 +12,4 @@ C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInter
 C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.pdb
 C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.genruntimeconfig.cache
 C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\ref\PracticandoConInterfaces.dll
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.sourcelink.json

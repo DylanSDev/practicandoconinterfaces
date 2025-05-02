@@ -1,10 +1,12 @@
-﻿namespace PracticandoConInterfaces
+﻿using PracticandoConInterfaces.Views;
+
+namespace PracticandoConInterfaces
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            new MainView().MostrarMenu();
         }
     }
 }
