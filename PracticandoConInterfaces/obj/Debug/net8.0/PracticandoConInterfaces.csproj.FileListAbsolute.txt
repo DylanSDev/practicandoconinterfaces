@@ -1,0 +1,14 @@
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\bin\Debug\net8.0\PracticandoConInterfaces.exe
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\bin\Debug\net8.0\PracticandoConInterfaces.deps.json
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\bin\Debug\net8.0\PracticandoConInterfaces.runtimeconfig.json
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\bin\Debug\net8.0\PracticandoConInterfaces.dll
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\bin\Debug\net8.0\PracticandoConInterfaces.pdb
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.AssemblyInfoInputs.cache
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.AssemblyInfo.cs
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.dll
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\refint\PracticandoConInterfaces.dll
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.pdb
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\PracticandoConInterfaces.genruntimeconfig.cache
+C:\Users\NEW GAME\Documents\Repos\1.PracticandoConInterfaces\PracticandoConInterfaces\PracticandoConInterfaces\obj\Debug\net8.0\ref\PracticandoConInterfaces.dll
